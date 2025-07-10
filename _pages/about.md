@@ -11,6 +11,6 @@ I'm a first-year graduate student from [School of Information Science and Techno
 
 I am very fortunate to be advised by [Prof. Hao](https://qingyinghao.web.illinois.edu/) of SAIL Lab from [The Systems and Security Center](https://ssc.sist.shanghaitech.edu.cn/), ShanghaiTech University. 
 
-You can find my CV here: [Zikang Chen's Curriculum Vitae](../assets/cv25-7-9.pdf).
+You can find my CV here: [Zikang Chen's Curriculum Vitae](../assets/cv250709.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/tonyjohnhhhh) / [Wechat](../images/wechat.jpg) 
