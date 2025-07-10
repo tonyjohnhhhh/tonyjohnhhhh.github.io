@@ -22,7 +22,7 @@ repository               : "tonyjohnhhhh/tonyjohnhhhh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hajimi.png"
   name             : "Zikang Chen" # Your name, e.g. "John Smith"
   pronouns         : # example: "she/her"  
   bio              : "Go get robot"
