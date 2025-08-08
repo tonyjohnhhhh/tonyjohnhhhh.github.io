@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year graduate student from [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interest includes machine learning, security.
+I'm a first-year graduate student from [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/), [ShanghaiTech University](https://www.shanghaitech.edu.cn/). My research interest includes machine learning, security and privacy.
 
 I am very fortunate to be advised by [Prof. Hao](https://qingyinghao.web.illinois.edu/) of SAIL Lab from [The Systems and Security Center](https://ssc.sist.shanghaitech.edu.cn/), ShanghaiTech University. 
 
 You can find my CV here: [Zikang Chen's Curriculum Vitae](../assets/cv250709.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/tonyjohnhhhh) / [Wechat](../images/wechat.jpg) 
+[Email](chenzk2025@shanghaitech.edu.cn) / [Github](https://github.com/tonyjohnhhhh) / [Wechat](../images/wechat.jpg) 
